@@ -1,0 +1,7 @@
+{
+  "name": "sfl-downloader",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mobile-friendly SFL.gl destination resolver UI",
+  "engines": { "node": ">=18" }
+}
