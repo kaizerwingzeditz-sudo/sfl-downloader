@@ -1,5 +1,0 @@
-{
-  "functions": {
-    "api/resolve.js": { "maxDuration": 30 }
-  }
-}
